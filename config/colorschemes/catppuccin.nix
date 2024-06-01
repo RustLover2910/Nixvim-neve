@@ -5,9 +5,9 @@
       settings = {
         background = {
           light = "macchiato";
-          dark = "mocha";
+          dark = "frappe";
         };
-        flavour = "mocha"; # "latte", "mocha", "frappe", "macchiato" or raw lua code
+        flavour = "frappe"; # "latte", "mocha", "frappe", "macchiato" or raw lua code
         disable_bold = false;
         disable_italic = false;
         disable_underline = false;
