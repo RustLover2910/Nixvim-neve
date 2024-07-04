@@ -10,11 +10,13 @@
       typescript = [["prettierd" "prettier"]];
       typescriptreact = [["prettierd" "prettier"]];
       java = ["google-java-format"];
+      json = ["jsonls"];
       python = ["black"];
       lua = ["stylua"];
       nix = ["alejandra"];
+      bash = ["bashls"];
       markdown = [["prettierd" "prettier"]];
-      rust = ["rustfmt"];
+      rust = ["rust-fmt"];
     };
   };
 
